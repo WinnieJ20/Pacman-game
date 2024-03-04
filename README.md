@@ -1,6 +1,6 @@
 # Pacman Game
 
-This is a simple Pacman game implemented in Java.
+This is a Pacman game implemented in Java.
 
 ## Features
 
